@@ -21,7 +21,7 @@
 4. возращаемся назад. заходим в пункт "режим разработчиков" и листаем вниз пока не найдём пункт "SSH". включаем его
 
 дальше, запускаем скрипт.
-`https://raw.githubusercontent.com/mryoshiii/mdtkbreak/refs/heads/main/mdtkbreak.sh | bash mdtkbreak.sh"
+`https://raw.githubusercontent.com/mryoshiii/mdtkbreak/refs/heads/main/mdtkbreak.sh && bash mdtkbreak.sh"`
 
 следуем по инструкции в терминале. если всё прошло правильно, то в конце должно вылезти:
 ```
